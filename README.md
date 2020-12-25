@@ -1,10 +1,12 @@
 This readme contains information about the evaluation of the paper.
 
 Thare are two python scripts that need to run for the evaluation.
+	
 	- main.py: this file is used to train a trojane model
 	- eval.py: this file is used to evaluate seven XAI methods using a specified trojaned model
 
 Bellow contains the following parts.
+	
 	- Setup: download and extract the dataset 
 	- Parameters: details the parameters for main.py and eval.py
 	- Training a trojaned model: shows an example for trainig a trojaned vgg16 model
